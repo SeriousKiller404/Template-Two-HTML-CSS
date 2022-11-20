@@ -1062,13 +1062,13 @@ header nav .toggle-menu {
   bottom: 0;
 }
 .plants .foot a {
+    color: blue;
   display: block;
   padding: 20px 20px;
   text-decoration: none;
   border: 1px solid var(--main-color);
   width: fit-content;
   margin: 7px auto;
-   color: blue;
 }
 .contact-par {
   text-align: center;
